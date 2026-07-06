@@ -18,10 +18,10 @@ Chat message comes in → AI Agent processes it → Agent is connected to:
 - Google Sheets (looks up the relevant info)
 
 ## Workflow
-![Workflow Diagram](assets/workflow-diagram.png)
+[View workflow diagram](assets/workflow-diagram.png)
 
 ## Demo
-![Chat Demo](assets/chat-demo.png)
+[View chat demo](assets/chat-demo.png)
 
 ## Knowledge base
 I made a simple spreadsheet with categories like Terminal Info, Baggage Rules, Airport Services, and Transport & Parking, and connected it to the workflow so the AI Agent can pull answers from it.
@@ -37,4 +37,4 @@ I made a simple spreadsheet with categories like Terminal Info, Baggage Rules, A
 ## Certification
 I completed "Automate Everything With n8n" (LetsUpgrade, in collaboration with NSDC) as part of learning n8n for this project.
 
-![Certificate](assets/n8n-certificate.jpeg)
+[View certificate](assets/n8n-certificate.jpeg)
